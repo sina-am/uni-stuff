@@ -1,0 +1,39 @@
+[
+    {
+        "title": "Fundamentals of Wavelets",
+        "authors": [
+            "Goswami",
+            "Jaideva"
+        ],
+        "published_year": 2018,
+        "rental_fee": 59.99,
+        "editions": {
+            "1": 10,
+            "2": 3
+        }
+    },
+    {
+        "title": "Data Smart",
+        "authors": [
+            "Foreman",
+            "Edward"
+        ],
+        "published_year": 1998,
+        "rental_fee": 49.99,
+        "editions": {
+            "1": 4,
+            "2": 0
+        }
+    },
+    {
+        "title": "Integration of the Indian States",
+        "authors": [
+            "Menon, V P"
+        ],
+        "published_year": 1997,
+        "rental_fee": 10.99,
+        "editions": {
+            "1": 4
+        }
+    }
+]
